@@ -1,10 +1,10 @@
-
-@import url ('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+ 
+@importar              URL( 'https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap' )
 
 *{
-    font-family= "Titillium Web";
-margin: 0;
-padding: 0;
+    familia    de    fuentes : "Titillium Web" ;
+margen : 0 ;
+relleno : 0;
 }
 
 html{ scroll-behavior: smooth; }
