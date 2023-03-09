@@ -10,9 +10,9 @@ relleno : 0;
 html{ scroll-behavior: smooth; }
 
 /** SECCION INICIO */
-.inicio {background: liner-gradient (rgba (0,0,0,.3), rgba (0,0,0,.3),url("https://64.media.tumblr.com/c45b962671fdba4046d5de6fc3a9331a/fafd2f83a1687595-d8/s640x960/c115becd357c4c4b2191617768d1397bbab579ac.jpg");
+.inicio { fondo : liner-gradient ( rgba ( 0 , 0 , 0 , .3 ), rgba ( 0 , 0 , 0 , .3 ), url ( "https://64.media.tumblr.com/c45b962671fdba4046d5de6fc3a9331a/ fafd2f83a1687595-d8/s640x960/c115becd357c4c4b2191617768d1397bbab579ac.jpg")) ;
 
-background-size: cover;
+tamaño de fondo : portada ; _ _  
 background-position: center center;
 background-color:#fff;}
 
